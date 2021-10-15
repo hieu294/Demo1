@@ -1,1 +1,4 @@
-hàm của main
+hàm của main 
+123
+abc
+Hieu
